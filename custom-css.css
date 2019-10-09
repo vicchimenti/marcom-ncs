@@ -1,9 +1,11 @@
 #globalHeaderNavigationWrapper {
   display:none
 }
+
 .cardsWrapper .cardButton a {
   color:#aa0000;
 }
+
 .cardsWrapper .cardButton a:hover, .cardsWrapper .cardButton a:focus {
     color:#088099;
 }
@@ -17,9 +19,17 @@ footer #organization a:hover, footer #organization a:focus{
   color: #fff;
   text-decoration:underline;
 }
+
 footer h4 {
   color:#fff;
 }
+
 footer .footerLinks a:hover, footer .footerLinks a:focus {
   text-decoration:underline;
+}
+
+.blogItemWrapper .blogItem .blogItemSummary img {
+    float: right;
+    max-width: 50%;
+    max-height: 300px;
 }
