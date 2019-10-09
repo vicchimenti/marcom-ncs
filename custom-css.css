@@ -1,0 +1,25 @@
+#globalHeaderNavigationWrapper {
+  display:none
+}
+.cardsWrapper .cardButton a {
+  color:#aa0000;
+}
+.cardsWrapper .cardButton a:hover, .cardsWrapper .cardButton a:focus {
+    color:#088099;
+}
+
+.jumbotron3Wrapper .jumbotron3Text{
+  border-top: 10px solid #aa0000;
+  border-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 25%, #aa0000 25.01%, #aa0000 75%, rgba(0, 0, 0, 0) 75.01%);
+}
+
+footer #organization a:hover, footer #organization a:focus{
+  color: #fff;
+  text-decoration:underline;
+}
+footer h4 {
+  color:#fff;
+}
+footer .footerLinks a:hover, footer .footerLinks a:focus {
+  text-decoration:underline;
+}
