@@ -33,3 +33,9 @@ footer .footerLinks a:hover, footer .footerLinks a:focus {
     max-width: 50%;
     max-height: 300px;
 }
+
+.blogItemWrapper .standardContent h2 a {
+    font-family: sans-serif;
+    font-size: 2.2rem;
+    font-weight: 300;
+}
