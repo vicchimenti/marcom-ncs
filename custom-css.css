@@ -40,7 +40,7 @@ footer .footerLinks a:hover, footer .footerLinks a:focus {
         float: none;
         height: auto;
         max-height: none;
-        min-width: 100%
+        min-width: 100%;
         vertical-align: top;
     }
 }
