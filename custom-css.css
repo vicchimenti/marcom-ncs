@@ -63,3 +63,14 @@ footer .footerLinks a:hover, footer .footerLinks a:focus {
         padding-right: 20px;
     }
 }
+
+@media (max-width:767.999px) {
+    .blogEntryWrapper h1.blogEntryTitle {
+        font-size: 2.0rem;
+        font-weight: 200;
+    }
+}
+
+.sectionBannerRed .bannerOverlay {
+    background-image: linear-gradient(115deg, #f7f7f7 0%, #f7f7f7 22%, rgba(170, 0, 0, .9) 22.01%, rgba(170, 0, 0, .9) 30%, transparent 30.01%, transparent 90%, #AA0000 90.01%, #AA0000 100%);
+}
