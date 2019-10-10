@@ -50,3 +50,16 @@ footer .footerLinks a:hover, footer .footerLinks a:focus {
     font-size: 2.4rem;
     font-weight: 300;
 }
+
+.blogEntryWrapper h1.blogEntryTitle {
+    font-family: sans-serif;
+    font-size: 2.6rem;
+    font-weight: 350;
+}
+
+@media screen and (max-width: 991.999px) {
+    .blogEntryWrapper {
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+}
